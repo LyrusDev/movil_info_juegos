@@ -22,15 +22,15 @@ class _ListElementsState extends State<ListElements> {
           height: 15,
         ),
         Row(children: [
-          bloquesPortada("p1.jpg", "titulo", "subtitulo"),
+          bloquesPortada("p1.jpg", "titulo", "2021"),
           SizedBox(
             width: _widthScreen * 0.03,
           ),
-          bloquesPortada("p2.jpg", "titulo", "subtitulo"),
+          bloquesPortada("p2.jpg", "titulo", "2022"),
           SizedBox(
             width: _widthScreen * 0.03,
           ),
-          bloquesPortada("p3.jpg", "titulo", "subtitulo"),
+          bloquesPortada("p3.jpg", "titulo", "2023"),
         ]),
         const Divider(
           thickness: 1,
@@ -47,6 +47,31 @@ class _ListElementsState extends State<ListElements> {
         bloqueElement("Roronoa Zoro", 0xff21E295, "o6"),
       ]),
     );
+  }
+
+  Column bloquesPortada(String image, String title, String subTitle) {
+    return Column(children: [
+      ClipRRect(
+        borderRadius: BorderRadius.circular(18),
+        child: Image.asset("assets/$image",
+            width: _widthScreen * 0.31, height: 110, fit: BoxFit.cover),
+      ),
+      const SizedBox(
+        height: 15,
+      ),
+      RichText(
+          text: TextSpan(
+              text: title,
+              style: const TextStyle(color: Colors.white70, fontSize: 14),
+              children: [
+            TextSpan(
+                text: subTitle,
+                style: const TextStyle(
+                    color: Colors.grey,
+                    fontWeight: FontWeight.w300,
+                    fontSize: 12))
+          ]))
+    ]);
   }
 
   Widget bloqueElement(String name, int color, String image) {
@@ -104,30 +129,5 @@ class _ListElementsState extends State<ListElements> {
         ),
       ),
     );
-  }
-
-  Column bloquesPortada(String image, String title, String subTitle) {
-    return Column(children: [
-      ClipRRect(
-        borderRadius: BorderRadius.circular(18),
-        child: Image.asset("assets/$image",
-            width: _widthScreen * 0.31, height: 110, fit: BoxFit.cover),
-      ),
-      const SizedBox(
-        height: 15,
-      ),
-      RichText(
-          text: TextSpan(
-              text: title,
-              style: const TextStyle(color: Colors.white70, fontSize: 14),
-              children: [
-            TextSpan(
-                text: subTitle,
-                style: const TextStyle(
-                    color: Colors.grey,
-                    fontWeight: FontWeight.w300,
-                    fontSize: 12))
-          ]))
-    ]);
   }
 }
