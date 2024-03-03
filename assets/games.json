@@ -1,0 +1,214 @@
+[
+  {
+    "id": 0,
+    "name": "HELLDIVERS 2",
+    "description": "Es un juego de disparos en tercera persona basado en escuadrones en el que las fuerzas de élite del Infierno luchan contra buzos para ganar una lucha intergaláctica para librar a la galaxia de las crecientes amenazas alienígenas.",
+    "cover": "assets/covers/cover0.png",
+    "icon": "assets/icons/icon0.jpg",
+    "developer": "Arrowhead Game Studios",
+    "url_video": "https://www.youtube.com/watch?v=-Lc2sLpWD3E&t=13s",
+    "requirements": {
+      "minimum": {
+        "cpu": "Intel Core i7-4790K or AMD Ryzen 5 1500X",
+        "ram": "8 GB",
+        "graphics": "NVIDIA GeForce GTX 1050 Ti or AMD",
+        "os": "Windows 10",
+        "storage": "100 GB"
+      },
+      "recommended": {
+        "cpu": "Intel Core i7-9700K or AMD Ryzen 7 3700X",
+        "ram": "16 GB",
+        "graphics": "NVIDIA GeForce RTX 2060",
+        "os": "Windows 10",
+        "storage": "100 GB"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "Palworld",
+    "description": "Captura misteriosas criaturas llamadas Pals, capaces de combatir, construir, cultivar y trabajar en fábricas, en este juego de supervivencia multijugador con un vasto y original mundo abierto.",
+    "cover": "assets/covers/cover1.jpg",
+    "icon": "assets/icons/icon1.jpg",
+    "requirements": {
+      "minimum": 
+        {
+          "cpu": "i5-3570K 3.4 GHz 4 Núcleos",
+          "ram": "16 GB RAM",
+          "graphics": "GeForce GTX 1050 (2GB)",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "40 GB de almacenamiento"
+        },
+      "recommended": 
+        {
+          "cpu": "i9-9900K 3.6 GHz 8 Núcleos",
+          "ram": "32 GB RAM",
+          "graphics": "GeForce RTX 2070",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "40 GB de almacenamiento"
+        }
+    }
+  },
+  {
+    "id": 2,
+    "name": "God of War",
+    "description": "Habiendo consumado su venganza contra los dioses el Olimpo años atrás, Kratos ahora vive como un hombre en el reino de los dioses y los monstruos nórdicos. En este hostil e inhóspito mundo, debe pelear por sobrevivir... y enseñarle a su hijo a hacer lo mismo.",
+    "cover": "assets/covers/cover2.jpg",
+    "icon": "assets/icons/icon2.jpg",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i5-2500k o AMD Ryzen 3 1200",
+          "ram": "8 GB RAM",
+          "graphics": "NVIDIA GTX 960 o AMD R9 290X",
+          "os": "Windows 10 (64-Bit)",
+          "storage": "70 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i5-6600k o AMD Ryzen 5 2400 G",
+          "ram": "8 GB RAM",
+          "graphics": "NVIDIA GTX 1060 o AMD RX 570",
+          "os": "Windows 10 (64-Bit)",
+          "storage": "70 GB de almacenamiento"
+        }
+      
+    }
+  },
+  {
+    "id": 3,
+    "name": "ELDEN RING",
+    "description": "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.",
+    "cover": "assets/covers/cover3.jpg",
+    "icon": "assets/icons/icon3.png",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i5-8400 o AMD Ryzen 3 3300X",
+          "ram": "12 GB RAM",
+          "graphics": "GeForce GTX 1060 o AMD RX 580",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "60 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i7-8700K o AMD Ryzen 5 3600X",
+          "ram": "16 GB RAM",
+          "graphics": "GeForce GTX 1070 o AMD RX Vega 56",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "60 GB de almacenamiento"
+        }
+      
+    }
+  },
+  {
+    "id": 4,
+    "name": "Monster Hunter: World",
+    "description": "¡Bienvenidos a un nuevo mundo! En Monster Hunter: World, la última entrega de la serie, podrás disfrutar de la mejor experiencia de juego, usando todos los recursos a tu alcance para acechar monstruos en un nuevo mundo rebosante de emociones y sorpresas.",
+    "cover": "assets/covers/cover4.jpg",
+    "icon": "assets/icons/icon4.jpeg",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i5 4460 o AMD Ryzen 3 3200G",
+          "ram": "8 GB RAM",
+          "graphics": "GeForce GTX 1050 o AMD R7 260x",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "52 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i7 3770 o AMD Ryzen 5 3400G",
+          "ram": "8 GB RAM",
+          "graphics": "GeForce GTX 1060 o AMD RX 570",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "52 GB de almacenamiento"
+        }
+      
+    }
+  },
+  {
+    "id": 5,
+    "name": "Resident Evil 4",
+    "description": "La supervivencia es solo el comienzo. A seis años del desastre biológico en Raccoon City, Leon S. Kennedy, uno de los sobrevivientes, rastreó a la hija secuestrada del presidente hasta una aldea europea aislada, donde algo terrible le ha ocurrido a los lugareños.",
+    "cover": "assets/covers/cover5.jpg",
+    "icon": "assets/icons/icon5.png",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i5-7500 o AMD Ryzen 3 1200",
+          "ram": "8 GB RAM",
+          "graphics": "GeForce GTX 1050 Ti o AMD RX 560",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "60 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i7-8700 o AMD Ryzen 5 3600",
+          "ram": "16 GB RAM",
+          "graphics": "GeForce GTX 1070 o AMD RX 5700",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "60 GB de almacenamiento"
+        }
+      
+    }
+  },
+  {
+    "id": 6,
+    "name": "Borderlands 3",
+    "description": "¡Vuelve el padre de los shooter-looter con miles de armas y una nueva aventura caótica! Ábrete paso por nuevos mundos y enemigos con uno de los cuatro buscacámaras nuevos, cada uno con su profuso árbol de habilidades y opciones de personalización.",
+    "cover": "assets/covers/cover6.jpg",
+    "icon": "assets/icons/icon6.jpg",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i5-3570 o AMD FX-8350",
+          "ram": "6 GB RAM",
+          "graphics": "GeForce GTX 680 o AMD HD 7970",
+          "os": "Windows 7/10 (64-Bit)",
+          "storage": "75 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i7-4770 o AMD Ryzen 5 2600",
+          "ram": "16 GB RAM",
+          "graphics": "GeForce GTX 1060 o AMD RX 590",
+          "os": "Windows 7/10 (64-Bit)",
+          "storage": "75 GB de almacenamiento"
+        }
+      
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales.",
+    "cover": "assets/covers/cover7.jpg",
+    "icon": "assets/icons/icon7.jpg",
+    "requirements": {
+      "minimum":
+        {
+          "cpu": "Intel i7-6700 o AMD Ryzen 5 1600",
+          "ram": "12 GB RAM",
+          "graphics": "GeForce GTX 1060 o AMD RX 580",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "70 GB de almacenamiento"
+        }
+      ,
+      "recommended":
+        {
+          "cpu": "Intel i7-12700 o AMD Ryzen 7 7800X3D",
+          "ram": "16 GB RAM",
+          "graphics": "GeForce RTX 2060 SUPER o AMD RX 5700 XT",
+          "os": "Windows 10 o posterior (64-Bit)",
+          "storage": "70 GB de almacenamiento"
+        }
+      
+    }
+  }
+]
