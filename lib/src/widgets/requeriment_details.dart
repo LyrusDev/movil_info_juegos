@@ -42,7 +42,7 @@ class RequirementDetails extends StatelessWidget {
             ]),
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
               const Text(
-                'Tarjeta Grafica',
+                'Tarjeta Gráfica',
                 style: TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
@@ -55,7 +55,7 @@ class RequirementDetails extends StatelessWidget {
             ]),
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
               const Text(
-                'Sistema Operativa',
+                'Sistema Operativo',
                 style: TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.bold,

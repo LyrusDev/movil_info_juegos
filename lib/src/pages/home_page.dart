@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:movil_info_juegos/src/widgets/header_widget.dart';
 import 'package:movil_info_juegos/src/widgets/list_widget.dart';
 
