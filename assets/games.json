@@ -30,6 +30,8 @@
     "description": "Captura misteriosas criaturas llamadas Pals, capaces de combatir, construir, cultivar y trabajar en fábricas, en este juego de supervivencia multijugador con un vasto y original mundo abierto.",
     "cover": "assets/covers/cover1.jpg",
     "icon": "assets/icons/icon1.jpg",
+    "developer": "Pocketpair",
+    "url_video": "https://www.youtube.com/watch?v=ZPu9yAOEYkQ",
     "requirements": {
       "minimum": 
         {
@@ -55,6 +57,8 @@
     "description": "Habiendo consumado su venganza contra los dioses el Olimpo años atrás, Kratos ahora vive como un hombre en el reino de los dioses y los monstruos nórdicos. En este hostil e inhóspito mundo, debe pelear por sobrevivir... y enseñarle a su hijo a hacer lo mismo.",
     "cover": "assets/covers/cover2.jpg",
     "icon": "assets/icons/icon2.jpg",
+    "developer": "Santa Monica Studio",
+    "url_video": "https://www.youtube.com/watch?v=AN3jEjjcZ-k",
     "requirements": {
       "minimum":
         {
@@ -82,6 +86,8 @@
     "description": "EL NUEVO RPG DE ACCIÓN DE FANTASÍA. Levántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.",
     "cover": "assets/covers/cover3.jpg",
     "icon": "assets/icons/icon3.png",
+    "developer": "FromSoftware Inc",
+    "url_video": "https://www.youtube.com/watch?v=E3Huy2cdih0",
     "requirements": {
       "minimum":
         {
@@ -105,10 +111,12 @@
   },
   {
     "id": 4,
-    "name": "Monster Hunter: World",
+    "name": "Monster Hunter",
     "description": "¡Bienvenidos a un nuevo mundo! En Monster Hunter: World, la última entrega de la serie, podrás disfrutar de la mejor experiencia de juego, usando todos los recursos a tu alcance para acechar monstruos en un nuevo mundo rebosante de emociones y sorpresas.",
     "cover": "assets/covers/cover4.jpg",
     "icon": "assets/icons/icon4.jpeg",
+    "developer": "CAPCOM Co., Ltd",
+    "url_video": "https://www.youtube.com/watch?v=Ro6r15wzp2o",
     "requirements": {
       "minimum":
         {
@@ -136,6 +144,8 @@
     "description": "La supervivencia es solo el comienzo. A seis años del desastre biológico en Raccoon City, Leon S. Kennedy, uno de los sobrevivientes, rastreó a la hija secuestrada del presidente hasta una aldea europea aislada, donde algo terrible le ha ocurrido a los lugareños.",
     "cover": "assets/covers/cover5.jpg",
     "icon": "assets/icons/icon5.png",
+    "developer": "CAPCOM Co., Ltd",
+    "url_video": "https://www.youtube.com/watch?v=O75Ip4o1bs8",
     "requirements": {
       "minimum":
         {
@@ -163,6 +173,8 @@
     "description": "¡Vuelve el padre de los shooter-looter con miles de armas y una nueva aventura caótica! Ábrete paso por nuevos mundos y enemigos con uno de los cuatro buscacámaras nuevos, cada uno con su profuso árbol de habilidades y opciones de personalización.",
     "cover": "assets/covers/cover6.jpg",
     "icon": "assets/icons/icon6.jpg",
+    "developer": "Gearbox Software",
+    "url_video": "https://www.youtube.com/watch?v=n7mUwX5IPRs",
     "requirements": {
       "minimum":
         {
@@ -186,10 +198,12 @@
   },
   {
     "id": 7,
-    "name": "Cyberpunk 2077",
+    "name": "Cyberpunk2077",
     "description": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales.",
     "cover": "assets/covers/cover7.jpg",
     "icon": "assets/icons/icon7.jpg",
+    "developer": "CD PROJEKT RED",
+    "url_video": "https://www.youtube.com/watch?v=qIcTM8WXFjk",
     "requirements": {
       "minimum":
         {
@@ -204,7 +218,7 @@
         {
           "cpu": "Intel i7-12700 o AMD Ryzen 7 7800X3D",
           "ram": "16 GB RAM",
-          "graphics": "GeForce RTX 2060 SUPER o AMD RX 5700 XT",
+          "graphics": "GeForce RTX 2060 SUPER",
           "os": "Windows 10 o posterior (64-Bit)",
           "storage": "70 GB de almacenamiento"
         }
